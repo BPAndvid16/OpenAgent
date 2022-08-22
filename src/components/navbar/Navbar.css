@@ -1,0 +1,35 @@
+nav{
+    background-image: linear-gradient(to top, #6a85b6 0%, #3d5581 100%);
+    backdrop-filter: blur(80px);
+    box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37);
+    color: white;
+   
+}
+
+h3{
+    font-style: bold;
+}
+
+ul{
+    margin:0;
+    padding:0;
+    align-content:space-around;
+    
+}
+
+
+
+.link-list{
+    text-align: end;
+}
+
+.nav-routes{
+    margin: 0.5rem;
+    font-style: italic;
+    text-decoration: none;
+    font-size: large;
+    color: white; 
+  
+}
+
+
